@@ -35,7 +35,7 @@
 5. Input Handling
     •	Pressing Escape or the gamepad's back button exits the game.
 
-Summary
+Summary:
     •	BepuPhysics is used to simulate a falling, rotating box on a static floor.
     •	The simulation is multithreaded for performance.
     •	The results of the simulation are visualized in real time using MonoGame.
